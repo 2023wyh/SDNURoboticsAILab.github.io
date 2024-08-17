@@ -582,6 +582,76 @@
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/LaTeX/LaTeX_Introduction/"/>
     </url>
     <url>
+        <loc>Noneresource/software/Linux/bash-basics-series-0-introduction-to-bash-scripting/</loc>
+        <lastmod>2024-08-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/bash-basics-series-0-introduction-to-bash-scripting/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/bash-basics-series-0-introduction-to-bash-scripting/"/>
+    </url>
+    <url>
+        <loc>Noneresource/software/Linux/bash-basics-series-1-create-and-run-your-first-bash-shell-script/</loc>
+        <lastmod>2024-08-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/bash-basics-series-1-create-and-run-your-first-bash-shell-script/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/bash-basics-series-1-create-and-run-your-first-bash-shell-script/"/>
+    </url>
+    <url>
+        <loc>Noneresource/software/Linux/bash-basics-series-2-using-variables-in-bash/</loc>
+        <lastmod>2024-08-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/bash-basics-series-2-using-variables-in-bash/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/bash-basics-series-2-using-variables-in-bash/"/>
+    </url>
+    <url>
+        <loc>Noneresource/software/Linux/bash-basics-series-3-passing-arguments-and-accepting-user-inputs/</loc>
+        <lastmod>2024-08-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/bash-basics-series-3-passing-arguments-and-accepting-user-inputs/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/bash-basics-series-3-passing-arguments-and-accepting-user-inputs/"/>
+    </url>
+    <url>
+        <loc>Noneresource/software/Linux/bash-basics-series-4-arithmetic-operations/</loc>
+        <lastmod>2024-08-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/bash-basics-series-4-arithmetic-operations/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/bash-basics-series-4-arithmetic-operations/"/>
+    </url>
+    <url>
+        <loc>Noneresource/software/Linux/bash-basics-series-5-using-arrays-in-bash/</loc>
+        <lastmod>2024-08-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/bash-basics-series-5-using-arrays-in-bash/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/bash-basics-series-5-using-arrays-in-bash/"/>
+    </url>
+    <url>
+        <loc>Noneresource/software/Linux/bash-basics-series-6-handling-string-operations/</loc>
+        <lastmod>2024-08-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/bash-basics-series-6-handling-string-operations/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/bash-basics-series-6-handling-string-operations/"/>
+    </url>
+    <url>
+        <loc>Noneresource/software/Linux/bash-basics-series-7-if-else-statement/</loc>
+        <lastmod>2024-08-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/bash-basics-series-7-if-else-statement/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/bash-basics-series-7-if-else-statement/"/>
+    </url>
+    <url>
+        <loc>Noneresource/software/Linux/bash-basics-series-8-for-while-and-until-Loops/</loc>
+        <lastmod>2024-08-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/bash-basics-series-8-for-while-and-until-Loops/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/bash-basics-series-8-for-while-and-until-Loops/"/>
+    </url>
+    <url>
+        <loc>Noneresource/software/Linux/bash-basics-series-9-functions-in-bash/</loc>
+        <lastmod>2024-08-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/bash-basics-series-9-functions-in-bash/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/bash-basics-series-9-functions-in-bash/"/>
+    </url>
+    <url>
         <loc>Noneresource/software/Linux/chapter-1-change-directories/</loc>
         <lastmod>2024-08-17</lastmod>
         <changefreq>daily</changefreq>
@@ -1280,6 +1350,76 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/LaTeX/LaTeX_Introduction/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/LaTeX/LaTeX_Introduction/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/software/Linux/bash-basics-series-0-introduction-to-bash-scripting/</loc>
+        <lastmod>2024-08-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/bash-basics-series-0-introduction-to-bash-scripting/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/bash-basics-series-0-introduction-to-bash-scripting/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/software/Linux/bash-basics-series-1-create-and-run-your-first-bash-shell-script/</loc>
+        <lastmod>2024-08-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/bash-basics-series-1-create-and-run-your-first-bash-shell-script/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/bash-basics-series-1-create-and-run-your-first-bash-shell-script/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/software/Linux/bash-basics-series-2-using-variables-in-bash/</loc>
+        <lastmod>2024-08-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/bash-basics-series-2-using-variables-in-bash/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/bash-basics-series-2-using-variables-in-bash/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/software/Linux/bash-basics-series-3-passing-arguments-and-accepting-user-inputs/</loc>
+        <lastmod>2024-08-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/bash-basics-series-3-passing-arguments-and-accepting-user-inputs/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/bash-basics-series-3-passing-arguments-and-accepting-user-inputs/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/software/Linux/bash-basics-series-4-arithmetic-operations/</loc>
+        <lastmod>2024-08-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/bash-basics-series-4-arithmetic-operations/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/bash-basics-series-4-arithmetic-operations/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/software/Linux/bash-basics-series-5-using-arrays-in-bash/</loc>
+        <lastmod>2024-08-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/bash-basics-series-5-using-arrays-in-bash/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/bash-basics-series-5-using-arrays-in-bash/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/software/Linux/bash-basics-series-6-handling-string-operations/</loc>
+        <lastmod>2024-08-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/bash-basics-series-6-handling-string-operations/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/bash-basics-series-6-handling-string-operations/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/software/Linux/bash-basics-series-7-if-else-statement/</loc>
+        <lastmod>2024-08-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/bash-basics-series-7-if-else-statement/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/bash-basics-series-7-if-else-statement/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/software/Linux/bash-basics-series-8-for-while-and-until-Loops/</loc>
+        <lastmod>2024-08-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/bash-basics-series-8-for-while-and-until-Loops/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/bash-basics-series-8-for-while-and-until-Loops/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/software/Linux/bash-basics-series-9-functions-in-bash/</loc>
+        <lastmod>2024-08-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/software/Linux/bash-basics-series-9-functions-in-bash/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/software/Linux/bash-basics-series-9-functions-in-bash/"/>
     </url>
     <url>
         <loc>Noneen/resource/software/Linux/chapter-1-change-directories/</loc>

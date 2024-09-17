@@ -575,6 +575,76 @@
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/programming/CPP/C%2B%2BControlStatements/switch-statement-in-cpp/"/>
     </url>
     <url>
+        <loc>Noneresource/programming/CPP/C%2B%2BOperators/cpp-arithmetic-operators/</loc>
+        <lastmod>2024-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/programming/CPP/C%2B%2BOperators/cpp-arithmetic-operators/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/programming/CPP/C%2B%2BOperators/cpp-arithmetic-operators/"/>
+    </url>
+    <url>
+        <loc>Noneresource/programming/CPP/C%2B%2BOperators/cpp-assignment-operators/</loc>
+        <lastmod>2024-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/programming/CPP/C%2B%2BOperators/cpp-assignment-operators/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/programming/CPP/C%2B%2BOperators/cpp-assignment-operators/"/>
+    </url>
+    <url>
+        <loc>Noneresource/programming/CPP/C%2B%2BOperators/cpp-bitwise-operators/</loc>
+        <lastmod>2024-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/programming/CPP/C%2B%2BOperators/cpp-bitwise-operators/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/programming/CPP/C%2B%2BOperators/cpp-bitwise-operators/"/>
+    </url>
+    <url>
+        <loc>Noneresource/programming/CPP/C%2B%2BOperators/cpp-logical-operators/</loc>
+        <lastmod>2024-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/programming/CPP/C%2B%2BOperators/cpp-logical-operators/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/programming/CPP/C%2B%2BOperators/cpp-logical-operators/"/>
+    </url>
+    <url>
+        <loc>Noneresource/programming/CPP/C%2B%2BOperators/cpp-operators/</loc>
+        <lastmod>2024-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/programming/CPP/C%2B%2BOperators/cpp-operators/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/programming/CPP/C%2B%2BOperators/cpp-operators/"/>
+    </url>
+    <url>
+        <loc>Noneresource/programming/CPP/C%2B%2BOperators/cpp-relational-operators/</loc>
+        <lastmod>2024-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/programming/CPP/C%2B%2BOperators/cpp-relational-operators/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/programming/CPP/C%2B%2BOperators/cpp-relational-operators/"/>
+    </url>
+    <url>
+        <loc>Noneresource/programming/CPP/C%2B%2BOperators/cpp-scope-resolution-operator/</loc>
+        <lastmod>2024-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/programming/CPP/C%2B%2BOperators/cpp-scope-resolution-operator/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/programming/CPP/C%2B%2BOperators/cpp-scope-resolution-operator/"/>
+    </url>
+    <url>
+        <loc>Noneresource/programming/CPP/C%2B%2BOperators/cpp-sizeof-operator/</loc>
+        <lastmod>2024-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/programming/CPP/C%2B%2BOperators/cpp-sizeof-operator/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/programming/CPP/C%2B%2BOperators/cpp-sizeof-operator/"/>
+    </url>
+    <url>
+        <loc>Noneresource/programming/CPP/C%2B%2BOperators/cpp-ternary-or-conditional-operators/</loc>
+        <lastmod>2024-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/programming/CPP/C%2B%2BOperators/cpp-ternary-or-conditional-operators/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/programming/CPP/C%2B%2BOperators/cpp-ternary-or-conditional-operators/"/>
+    </url>
+    <url>
+        <loc>Noneresource/programming/CPP/C%2B%2BOperators/cpp-unary-operators/</loc>
+        <lastmod>2024-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/programming/CPP/C%2B%2BOperators/cpp-unary-operators/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/programming/CPP/C%2B%2BOperators/cpp-unary-operators/"/>
+    </url>
+    <url>
         <loc>Noneresource/programming/CPP/C%2B%2BOverview/Difference%20between%20C%20and%20C%2B%2B/</loc>
         <lastmod>2024-09-17</lastmod>
         <changefreq>daily</changefreq>
@@ -1826,6 +1896,76 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/programming/CPP/C%2B%2BControlStatements/switch-statement-in-cpp/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/programming/CPP/C%2B%2BControlStatements/switch-statement-in-cpp/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/programming/CPP/C%2B%2BOperators/cpp-arithmetic-operators/</loc>
+        <lastmod>2024-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/programming/CPP/C%2B%2BOperators/cpp-arithmetic-operators/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/programming/CPP/C%2B%2BOperators/cpp-arithmetic-operators/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/programming/CPP/C%2B%2BOperators/cpp-assignment-operators/</loc>
+        <lastmod>2024-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/programming/CPP/C%2B%2BOperators/cpp-assignment-operators/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/programming/CPP/C%2B%2BOperators/cpp-assignment-operators/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/programming/CPP/C%2B%2BOperators/cpp-bitwise-operators/</loc>
+        <lastmod>2024-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/programming/CPP/C%2B%2BOperators/cpp-bitwise-operators/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/programming/CPP/C%2B%2BOperators/cpp-bitwise-operators/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/programming/CPP/C%2B%2BOperators/cpp-logical-operators/</loc>
+        <lastmod>2024-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/programming/CPP/C%2B%2BOperators/cpp-logical-operators/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/programming/CPP/C%2B%2BOperators/cpp-logical-operators/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/programming/CPP/C%2B%2BOperators/cpp-operators/</loc>
+        <lastmod>2024-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/programming/CPP/C%2B%2BOperators/cpp-operators/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/programming/CPP/C%2B%2BOperators/cpp-operators/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/programming/CPP/C%2B%2BOperators/cpp-relational-operators/</loc>
+        <lastmod>2024-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/programming/CPP/C%2B%2BOperators/cpp-relational-operators/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/programming/CPP/C%2B%2BOperators/cpp-relational-operators/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/programming/CPP/C%2B%2BOperators/cpp-scope-resolution-operator/</loc>
+        <lastmod>2024-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/programming/CPP/C%2B%2BOperators/cpp-scope-resolution-operator/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/programming/CPP/C%2B%2BOperators/cpp-scope-resolution-operator/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/programming/CPP/C%2B%2BOperators/cpp-sizeof-operator/</loc>
+        <lastmod>2024-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/programming/CPP/C%2B%2BOperators/cpp-sizeof-operator/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/programming/CPP/C%2B%2BOperators/cpp-sizeof-operator/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/programming/CPP/C%2B%2BOperators/cpp-ternary-or-conditional-operators/</loc>
+        <lastmod>2024-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/programming/CPP/C%2B%2BOperators/cpp-ternary-or-conditional-operators/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/programming/CPP/C%2B%2BOperators/cpp-ternary-or-conditional-operators/"/>
+    </url>
+    <url>
+        <loc>Noneen/resource/programming/CPP/C%2B%2BOperators/cpp-unary-operators/</loc>
+        <lastmod>2024-09-17</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneen/resource/programming/CPP/C%2B%2BOperators/cpp-unary-operators/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Noneresource/programming/CPP/C%2B%2BOperators/cpp-unary-operators/"/>
     </url>
     <url>
         <loc>Noneen/resource/programming/CPP/C%2B%2BOverview/Difference%20between%20C%20and%20C%2B%2B/</loc>
